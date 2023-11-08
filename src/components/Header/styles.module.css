@@ -1,0 +1,7 @@
+.header {
+    @apply fixed w-full h-20 mb-[120px] bg-[#a7d7ff] z-10 border-b border-gray-400;
+  }
+
+  .inner {
+    @apply flex items-center justify-between w-fit h-20;
+  }
